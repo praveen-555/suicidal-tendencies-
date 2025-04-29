@@ -1,0 +1,67 @@
+{
+    "users": [
+        {
+            "name": "abc",
+            "email": "abc@gmail.com",
+            "age": 23,
+            "sex": "Female",
+            "password": "1234"
+        },
+        {
+            "name": "user",
+            "email": "user@gmail.com",
+            "age": 23,
+            "sex": "Female",
+            "password": "1234"
+        },
+        {
+            "name": "user1",
+            "email": "user1@gmail.com",
+            "age": 23,
+            "sex": "Female",
+            "password": "1234"
+        },
+        {
+            "name": "user2",
+            "email": "user2@gmail.com",
+            "age": 23,
+            "sex": "Female",
+            "password": "1234"
+        },
+        {
+            "name": "user3",
+            "email": "user3@gmail.com",
+            "age": 23,
+            "sex": "Female",
+            "password": "1234"
+        },
+        {
+            "name": "xyz",
+            "email": "xyz@gmail.com",
+            "age": 23,
+            "sex": "Female",
+            "password": "1234"
+        },
+        {
+            "name": "praveen",
+            "email": "snpraveen@karunya.edu.in",
+            "age": 22,
+            "sex": "Male",
+            "password": "praveen@12"
+        },
+        {
+            "name": "praveen123",
+            "email": "praveen@karunya",
+            "age": 22,
+            "sex": "Male",
+            "password": "praveen123"
+        },
+        {
+            "name": "test",
+            "email": "test@gmail.com",
+            "age": 9,
+            "sex": "Male",
+            "password": "12345"
+        }
+    ]
+}
